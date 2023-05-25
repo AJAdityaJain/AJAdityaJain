@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aditya Jain
-- 👀 I’m fairly fluent in C++, C#, Java, JS (HTML SCSS), Python (but I barely consider it as programming)
+- 👀 I’m fairly fluent in C++, C#, Java, JS (HTML SCSS), Python, SQL
 - 🌱 I’m currently learning Angular🅰️
 - 💞️ I love Cats 🐱 and C# 💾 ...
 
