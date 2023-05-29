@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Aditya Jain... Programming since 2020
+- 👋 Hi, I’m Aditya Jain, 14 year old... Programming since 2020
 - 👀 I’m fairly fluent in C++, C#, C, Java, JS, (HTML SCSS), Python, SQL, Angular
 - 🌱 I’m currently Making a Chatting platform
 - 💞️ I love Cats 🐱 and C# 💾 ...
