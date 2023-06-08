@@ -1,6 +1,3 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
   
 
 ### <div align="center">I'm Aditya Jain, a 15 year old programmer👨‍💻 Programming since 2020</div>  
