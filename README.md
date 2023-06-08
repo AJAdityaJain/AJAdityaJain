@@ -1,6 +1,6 @@
   
 
-### <div align="center">I'm Aditya Jain, a 15 year old programmer👨‍💻 Programming since 2020</div>  
+### <div align="center">I'm Aditya Jain, a 14 year old programmer👨‍💻 Programming since 2020</div>  
   
 
 - 🔭 I’m currently working on [Synk](https://github.com/AJAdityaJain/Synk), a chatting platform  
