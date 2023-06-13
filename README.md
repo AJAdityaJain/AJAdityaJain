@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on [Synk](https://github.com/AJAdityaJain/Synk), a chatting platform  
   
 
-- 🌱 I’m currently learning Flutter  
+- ⚛️ I’m currently learning React Native
   
 
 - 😻 Fun fact: I love cats as much as I love C#  
