@@ -68,7 +68,7 @@
 <a href="https://github.com/AJAdityaJain" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 <a href="https://discordapp.com/users/1078703387337564292-1118589073678930051" target="_blank">
-<img src="https://global-uploads.webflow.com/5e157548d6f7910beea4e2d6/62a07b53139aec4c1fd07771_discord-logo.png" alt=Discord style=" width : 100px ;height:28px;margin-bottom: 5px;" /> Aditya J#0210
+<img src="https://global-uploads.webflow.com/5e157548d6f7910beea4e2d6/62a07b53139aec4c1fd07771_discord-logo.png" alt=Discord style=" width : 100px ;height:28px;margin-bottom: 5px;" /> aditya.jain
 </a>  
   
 
