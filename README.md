@@ -1,12 +1,12 @@
   
 
-### <div align="center">I'm Aditya Jain, a 14 year old programmer👨‍💻 Programming since 2020</div>  
+### <div align="center">I'm Aditya Jain,👨‍💻 Programming since 2020</div>  
   
 
-- 🔭 I’m currently working on [Synk](https://github.com/AJAdityaJain/Synk), a chatting platform  
+- 🔭 I’m currently working on [A++](https://github.com/AJAdityaJain/APlusPlus), a custom COMPILED language  
   
 
-- ⚛️ I’m currently learning React Native
+- 🖥️ Using Flat Assembly
   
 
 - 😻 Fun fact: I love cats as much as I love C#  
@@ -40,7 +40,7 @@
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
-<a href="https://dotnet.microsoft.com/download" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" height="50" /></a>  
+<a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank"><img style="margin: 10px" src="https://veriklick.com/wp-content/uploads/2021/12/Assembly.png" alt=".Net Core" height="50" /></a>  
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a> 
