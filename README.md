@@ -6,10 +6,10 @@
 - 🔭 I’m currently working on [A++](https://github.com/AJAdityaJain/A-Plus-Plus), a custom COMPILED language  
   
 
-- 🖥️ Using Flat Assembly
+- 🖥️ Learning Rust 🦀 
   
 
-- 😻 Fun fact: I love cats as much as I love C#  
+- 😻 Fun fact: I love cats as much as I love C
   
 
 <br/>  
