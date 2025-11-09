@@ -1,14 +1,8 @@
   
 
 ### <div align="center">I'm Aditya Jain,👨‍💻 Programming since 2020</div>  
-  
 
-- 🔭 I’m currently working on multiplayer minecraft  
-  
-
-- 🖥️ Learning Networking
-  
-
+    
 - 😻 Fun fact: I love cats as much as I love C
   
 - [A++](https://github.com/AJAdityaJain/A-Plus-Plus) is out!
